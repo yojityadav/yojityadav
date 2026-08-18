@@ -1,19 +1,84 @@
-<h1 align="center">Hi 👋, I'm Yojit Yadav</h1>
-<h3 align="center">Studying B.Tech in Artificial Intelligence and Machine Learning.</h3>
+# Hi, I'm Yojit Yadav 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yojityadav&label=Profile%20views&color=0e75b6&style=flat" alt="yojityadav" /> </p>
+🎓 **B.Tech AI/ML Student** | 🚀 Aspiring Builder | 🧠 Always Learning
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yojityadav" alt="yojityadav" /></a> </p>
+I'm a B.Tech AI/ML student beginning my journey into computer science.
 
-- 📫 How to reach me **yojityadav09@gmail.com**
+I'm currently building my foundations in programming and exploring **AI/ML, Python, DSA, and different areas of technology**. My goal is to turn what I learn into real projects, competitions, and eventually things that create real value.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/yojityadav.yae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yojityadav.yae" height="30" width="40" /></a>
-</p>
+I'm starting from the ground up — and I want this GitHub to document that journey.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yojityadav&show_icons=true&locale=en&layout=compact" alt="yojityadav" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yojityadav&show_icons=true&locale=en" alt="yojityadav" /></p>
+## 🎯 Current Goals
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yojityadav&" alt="yojityadav" /></p>
+* 🐍 Build a strong foundation in **Python & programming**
+* 🤖 Explore **AI & Machine Learning**
+* 🧠 Learn **DSA** and strengthen my problem-solving
+* 🛠️ Build projects alongside college
+* 🏆 Work toward competing in **Smart India Hackathon 2027** and other hackathons
+* 🚀 Build something valuable enough to generate income by my second year
+* 📈 Turn this GitHub into a record of **consistency, growth, and achievements**
+
+---
+
+## 🌱 Currently Learning
+
+`Python` · `AI/ML` · `DSA` · `Git & GitHub`
+
+> This section will grow as I do.
+
+---
+
+## 🛠️ What I'm Exploring
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🐍 Python
+* 🧠 Data Structures & Algorithms
+* 🤖 Robotics
+* 🚀 Startups & building products
+* 💡 Exploring where technology can create real-world value
+
+---
+
+## 📌 Projects
+
+**Currently building my foundations.**
+
+I'm starting my first projects and will be adding them here as I learn.
+
+---
+
+## 📈 The Goal
+
+I don't want this profile to just list technologies.
+
+I want it to show the progression from **learning → building → competing → creating impact**.
+
+Hopefully, if you come back here a year or two from now, there will be a very different profile waiting.
+
+---
+
+## 🎧 Outside Tech
+
+When I'm not studying or working on something:
+
+🏋️ Gym · 🎌 Anime · 🎬 Movies · 🎵 Music · 🏍️ Super & Sports Bikes
+
+---
+
+## 📊 Activity
+
+I'm just getting started — more projects, contributions and experiments coming soon.
+
+---
+
+## 🤝 Connect
+
+📸 Instagram: **@yojityadav.yae**
+
+💼 LinkedIn: **Coming soon**
+
+---
+
+### 🚀 Starting from zero. Building from here.
