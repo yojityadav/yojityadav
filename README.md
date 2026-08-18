@@ -1,83 +1,54 @@
-# Hi, I'm Yojit Yadav 👋
+# Yojit Yadav 👋
 
-🎓 **B.Tech AI/ML Student** | 🚀 Aspiring Builder | 🧠 Always Learning
+### B.Tech AI/ML Student · Builder in Progress · Starting from Zero 🚀
 
-I'm a B.Tech AI/ML student beginning my journey into computer science.
+> Exploring **AI/ML, Python & DSA** — learning, building, competing, and improving one step at a time.
 
-I'm currently building my foundations in programming and exploring **AI/ML, Python, DSA, and different areas of technology**. My goal is to turn what I learn into real projects, competitions, and eventually things that create real value.
-
-I'm starting from the ground up — and I want this GitHub to document that journey.
-
----
-
-## 🎯 Current Goals
-
-* 🐍 Build a strong foundation in **Python & programming**
-* 🤖 Explore **AI & Machine Learning**
-* 🧠 Learn **DSA** and strengthen my problem-solving
-* 🛠️ Build projects alongside college
-* 🏆 Work toward competing in **Smart India Hackathon 2027** and other hackathons
-* 🚀 Build something valuable enough to generate income by my second year
-* 📈 Turn this GitHub into a record of **consistency, growth, and achievements**
+🎓 **B.Tech AI/ML**  
+🐍 **Currently learning:** Python · AI/ML · DSA · Git/GitHub  
+🏆 **Goal:** Compete in SIH 2027 & other hackathons  
+🚀 **Long-term:** Build things that create real value  
+💰 **By 2nd year:** Build something valuable enough to generate income
 
 ---
 
-## 🌱 Currently Learning
+### 🎯 What I'm Working Toward
 
-`Python` · `AI/ML` · `DSA` · `Git & GitHub`
+**Learn → Build → Compete → Create**
 
-> This section will grow as I do.
-
----
-
-## 🛠️ What I'm Exploring
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 🐍 Python
-* 🧠 Data Structures & Algorithms
-* 🤖 Robotics
-* 🚀 Startups & building products
-* 💡 Exploring where technology can create real-world value
+- 📚 Build strong CS fundamentals alongside college
+- 🛠️ Turn what I learn into real projects
+- 🏆 Work toward **Smart India Hackathon 2027**
+- 🚀 Explore ideas around technology & startups
+- 📈 Make this profile a record of consistency and growth
 
 ---
 
-## 📌 Projects
+### 🌱 Currently Exploring
 
-**Currently building my foundations.**
+`Python` `AI / ML` `DSA` `Git` `GitHub`
 
-I'm starting my first projects and will be adding them here as I learn.
-
----
-
-## 📈 The Goal
-
-I don't want this profile to just list technologies.
-
-I want it to show the progression from **learning → building → competing → creating impact**.
-
-Hopefully, if you come back here a year or two from now, there will be a very different profile waiting.
+> Just getting started — this list will grow with me.
 
 ---
 
-## 🎧 Outside Tech
+### 🧑‍💻 Projects
 
-When I'm not studying or working on something:
+**Coming soon...**
+
+I'm currently building my foundations before starting my first serious projects.
+
+---
+
+### 🎧 Beyond Tech
 
 🏋️ Gym · 🎌 Anime · 🎬 Movies · 🎵 Music · 🏍️ Super & Sports Bikes
 
 ---
 
-## 📊 Activity
+### 🤝 Connect
 
-I'm just getting started — more projects, contributions and experiments coming soon.
-
----
-
-## 🤝 Connect
-
-📸 Instagram: **@yojityadav.yae**
-
-💼 LinkedIn: **Coming soon**
+[📸 Instagram](https://instagram.com/yojityadav.yae) · 💼 LinkedIn — Coming Soon
 
 ---
 
